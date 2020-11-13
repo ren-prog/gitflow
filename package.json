@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/ren-prog/gitflow.git",
   "author": "Renan Albuquerque <62337593+ren-prog@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  }
 }
